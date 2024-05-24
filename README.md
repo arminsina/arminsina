@@ -10,4 +10,6 @@ My Skills:
 Python🐍
 Machine Learning🤖
 Deep Learning🧠
-Internet of Things (IoT)🌐</p>
+Internet of Things (IoT)🌐
+
+I am always happy to meet new people and talk about exciting projects. Let's build the future together! 🚀</p>
