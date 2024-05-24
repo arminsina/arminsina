@@ -7,7 +7,7 @@
 <p align="center">I am a Python developer with a passion and expertise in Machine Learning, Deep Learning, and the Internet of Things (IoT). I love sharing knowledge and collaborating with others, and I am always eager to learn new things.
 
 My Skills:
-Python 🐍
-Machine Learning 🤖
-Deep Learning 🧠
-Internet of Things (IoT) 🌐</p>
+Python🐍
+Machine Learning🤖
+Deep Learning🧠
+Internet of Things (IoT)🌐</p>
